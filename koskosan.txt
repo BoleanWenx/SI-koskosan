@@ -4,3 +4,4 @@ Langkah :
 - coding
 - maintenance 
 - debugging
+- testing
