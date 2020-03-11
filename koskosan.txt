@@ -1,0 +1,6 @@
+Langkah :
+- Analisis kebutuhan
+- desain prototype
+- coding
+- maintenance 
+- debugging
