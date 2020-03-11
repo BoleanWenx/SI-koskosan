@@ -4,4 +4,4 @@ Langkah :
 - coding
 - maintenance 
 - debugging
-- testing
+- jual ke client
